@@ -1,6 +1,6 @@
 {
-    "version": "0.2.0",
+    "version": "0.1.0",
     "force_update": false,
-    "download_url": "https://github.com/mlemingcapoo/huntervn-ext-releases/releases/download/alpha_0_2/huntermapvn-ext-v0.2.0-alpha.zip",
+    "download_url": "https://github.com/mlemingcapoo/huntervn-ext-releases/releases/download/alpha_0_15/huntermapvn-ext-v0.0.15-alpha.zip",
     "release_notes": "Thông báo khi bị trùng kết quả"
 }
