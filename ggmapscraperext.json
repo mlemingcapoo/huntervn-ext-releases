@@ -1,6 +1,6 @@
 {
-    "version": "0.1.0",
-    "force_update": true,
+    "version": "0.1.1",
+    "force_update": false,
     "download_url": "https://github.com/mlemingcapoo/huntervn-ext-releases/releases/download/alpha_01/huntermapvn-ext-v0.1.0-alpha.zip",
     "release_notes": "Tăng tốc độ quét gấp 6 lần so với bản cũ"
 }
