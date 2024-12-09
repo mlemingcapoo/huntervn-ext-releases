@@ -1,6 +1,6 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.5",
     "force_update": false,
-    "download_url": "https://github.com/mlemingcapoo/huntervn-ext-releases/releases/download/alpha_0_3/huntermapvn-ext-v0.3.0-alpha.zip",
-    "release_notes": "Fix lỗi ko quét đc sau lần 1"
+    "download_url": "https://github.com/mlemingcapoo/huntervn-ext-releases/releases/download/alpha_0_3_5/huntermapvn-ext-v0.3.5-alpha.zip",
+    "release_notes": "Fix lỗi ko quét đc toàn bộ kết quả"
 }
