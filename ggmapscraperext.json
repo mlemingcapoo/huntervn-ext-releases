@@ -1,6 +1,6 @@
 {
-    "version": "0.3.5",
-    "force_update": false,
-    "download_url": "https://github.com/mlemingcapoo/huntervn-ext-releases/releases/download/alpha_0_3_5/huntermapvn-ext-v0.3.5-alpha.zip",
-    "release_notes": "Fix lỗi ko quét đc toàn bộ kết quả"
+    "version": "0.5.0",
+    "force_update": true,
+    "download_url": "https://github.com/mlemingcapoo/huntervn-ext-releases/releases/download/beta_0_5_0/huntermapvn-ext-v0.5.0-beta.zip",
+    "release_notes": "Thêm tính năng lấy email"
 }
